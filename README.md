@@ -52,7 +52,7 @@ Create environment file:
 cp .env.example .env
 ```
 
-Update database values in .env:
+Update database values in .env: (Create Database In mysql with same name)
 
 ```env
 DB_CONNECTION=mysql
