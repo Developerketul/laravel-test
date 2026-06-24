@@ -34,7 +34,7 @@ Use your own repository URL if needed.
 
 ```bash
 git clone <your-repo-url>
-cd invoice-management
+cd laravel-test
 ```
 
 ### 2. Install dependencies
